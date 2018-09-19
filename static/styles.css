@@ -42,3 +42,14 @@ body{
 input[type="radio"]{
     margin: 0px 10px 0px 10px;
 }
+
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 10px 10px 5px grey;
+}
+#bqcard{
+    box-shadow: 10px 10px 5px grey;
+}
